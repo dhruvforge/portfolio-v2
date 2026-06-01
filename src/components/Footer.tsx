@@ -5,7 +5,7 @@ import Hls from 'hls.js'
 const HLS_SRC = 'https://stream.mux.com/Aa02T7oM1wH5Mk5EEVDYhbZ1ChcdhRsS2m1NYyx4Ua1g.m3u8'
 const MARQUEE_TEXT = 'BUILDING THE FUTURE • '
 const socials = [
-  { label: 'GitHub', href: 'https://github.com/madebydhruv4424' },
+  { label: 'GitHub', href: 'https://github.com/dhruvforge' },
 ]
 
 export default function Footer() {

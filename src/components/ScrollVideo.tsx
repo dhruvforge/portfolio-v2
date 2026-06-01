@@ -164,7 +164,7 @@ function ProgressBar({ sectionRef }: { sectionRef: React.RefObject<HTMLElement |
       <div
         ref={barRef}
         className="h-full accent-gradient origin-left"
-        style={{ scaleX: 0, boxShadow: '0 0 6px rgba(137,170,204,0.5)' }}
+        style={{ transform: 'scaleX(0)', boxShadow: '0 0 6px rgba(137,170,204,0.5)' }}
       />
     </div>
   )
